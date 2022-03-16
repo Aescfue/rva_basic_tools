@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # A basic tool that downsamples a radar scan by taking one point for each n
 

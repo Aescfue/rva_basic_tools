@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # A basic tool that removes the laser points that are closer than a given distance
 import rospy
